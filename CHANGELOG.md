@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-automl/#history
 
+### [1.0.2](https://www.github.com/googleapis/python-automl/compare/v1.0.1...v1.0.2) (2020-06-26)
+
+
+### Bug Fixes
+
+* update retry configs ([#44](https://www.github.com/googleapis/python-automl/issues/44)) ([7df9059](https://www.github.com/googleapis/python-automl/commit/7df905910b86721a6ee3a3b6c916a4f8e27d0aa7))
+
 ### [1.0.1](https://www.github.com/googleapis/python-automl/compare/v1.0.0...v1.0.1) (2020-06-18)
 
 
